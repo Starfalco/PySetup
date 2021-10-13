@@ -17,7 +17,7 @@ conda activate Env2
 ```
 conda install instruction example :
 ```shell
-pip install yfinance
+conda install yfinance
 ```
 pip install instruction example :
  ```shell
