@@ -1,0 +1,2 @@
+# PySetup
+Python setup PyCharm
